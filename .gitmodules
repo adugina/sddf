@@ -1,0 +1,4 @@
+[submodule "usb/tinyusb"]
+	path = usb/tinyusb
+	url = https://github.com/adugina/tinyusb.git
+	branch = sddf
